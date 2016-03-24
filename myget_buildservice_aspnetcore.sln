@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1C5BD802-F04
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87234AAB-6C7B-415C-9959-5F011FE2F8EA}"
 	ProjectSection(SolutionItems) = preProject
+		build.bat = build.bat
 		global.json = global.json
 	EndProjectSection
 EndProject
