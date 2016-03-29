@@ -13,6 +13,7 @@ namespace SampleLib.Tests
         [Fact]
         public void Test01()
         {
+            Assert.True(false);
         }
     }
 }

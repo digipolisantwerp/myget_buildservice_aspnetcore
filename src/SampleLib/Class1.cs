@@ -11,6 +11,6 @@ namespace SampleLib
     {
         public Class1()
         {
-        
+        }
     }
 }
