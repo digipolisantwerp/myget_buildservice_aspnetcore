@@ -133,7 +133,7 @@
           "lib/net45/Newtonsoft.Json.dll": {}
         }
       },
-      "SampleLib/1.2.0": {
+      "SampleLib/1.2.1": {
         "type": "project",
         "framework": "DNX,Version=v4.5.1"
       },
@@ -194,9 +194,6 @@
         "runtime": {
           "lib/dnx451/xunit.execution.dotnet.dll": {}
         }
-      },
-      "xunit.runner.console/2.2.0-beta1-build3239": {
-        "type": "package"
       },
       "xunit.runner.dnx/2.1.0-rc1-build204": {
         "type": "package",
@@ -381,7 +378,7 @@
           "lib/net45/Newtonsoft.Json.dll": {}
         }
       },
-      "SampleLib/1.2.0": {
+      "SampleLib/1.2.1": {
         "type": "project",
         "framework": "DNX,Version=v4.5.1"
       },
@@ -442,9 +439,6 @@
         "runtime": {
           "lib/dnx451/xunit.execution.dotnet.dll": {}
         }
-      },
-      "xunit.runner.console/2.2.0-beta1-build3239": {
-        "type": "package"
       },
       "xunit.runner.dnx/2.1.0-rc1-build204": {
         "type": "package",
@@ -629,7 +623,7 @@
           "lib/net45/Newtonsoft.Json.dll": {}
         }
       },
-      "SampleLib/1.2.0": {
+      "SampleLib/1.2.1": {
         "type": "project",
         "framework": "DNX,Version=v4.5.1"
       },
@@ -691,9 +685,6 @@
           "lib/dnx451/xunit.execution.dotnet.dll": {}
         }
       },
-      "xunit.runner.console/2.2.0-beta1-build3239": {
-        "type": "package"
-      },
       "xunit.runner.dnx/2.1.0-rc1-build204": {
         "type": "package",
         "dependencies": {
@@ -748,7 +739,7 @@
     }
   },
   "libraries": {
-    "SampleLib/1.2.0": {
+    "SampleLib/1.2.1": {
       "type": "project",
       "path": "../../src/SampleLib/project.json"
     },
@@ -996,25 +987,6 @@
         "xunit.extensibility.execution.nuspec"
       ]
     },
-    "xunit.runner.console/2.2.0-beta1-build3239": {
-      "type": "package",
-      "sha512": "wkMgFO4XEzfzcwdjmQhqyF6fvANdxSxZ7pH4Js69215APjode8hmNWuSfJT99UUGWS635W4XkzTAPejUOFOjLg==",
-      "files": [
-        "tools/HTML.xslt",
-        "tools/NUnitXml.xslt",
-        "tools/xunit.abstractions.dll",
-        "tools/xunit.console.exe",
-        "tools/xunit.console.exe.config",
-        "tools/xunit.console.x86.exe",
-        "tools/xunit.console.x86.exe.config",
-        "tools/xunit.runner.reporters.desktop.dll",
-        "tools/xunit.runner.utility.desktop.dll",
-        "tools/xUnit1.xslt",
-        "xunit.runner.console.2.2.0-beta1-build3239.nupkg",
-        "xunit.runner.console.2.2.0-beta1-build3239.nupkg.sha512",
-        "xunit.runner.console.nuspec"
-      ]
-    },
     "xunit.runner.dnx/2.1.0-rc1-build204": {
       "type": "package",
       "sha512": "GUtWIQN3h7QGJdp5RTgvbPVjdWC7tXIRZhzpW8txNDC9nbMph4/TWbVEZKCGUOsLvE5BZg3icRGb6JR3ZwBADA==",
@@ -1066,7 +1038,6 @@
     "": [
       "SampleLib >= 1.2.0-*",
       "xunit >= 2.1.0",
-      "xunit.runner.console >= 2.2.0-beta1-build3239",
       "xunit.runner.dnx >= 2.1.0-rc1-build204"
     ],
     "DNX,Version=v4.5.1": []
