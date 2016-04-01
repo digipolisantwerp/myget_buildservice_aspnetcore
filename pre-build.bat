@@ -1,1 +1,1 @@
-dnu restore tests\SampleLib.Tests
+REM dnu restore tests\SampleLib.Tests

@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		build.bat = build.bat
 		global.json = global.json
+		MyGet.ps1 = MyGet.ps1
+		pre-build.bat = pre-build.bat
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0900EFD4-49F3-4624-9F08-3862EEE514A3}"
