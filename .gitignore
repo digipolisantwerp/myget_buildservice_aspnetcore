@@ -17,7 +17,7 @@ site.css.map
 *.suo
 *.user
 *.sln.docstates
-# *.lock.json
+*.lock.json
 
 # Build results
 [Dd]ebug/
